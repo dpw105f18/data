@@ -1,0 +1,4 @@
+Variations:
+	Basic:			(setVertexBuffer). ShaderBytecode Objects.
+	Shadowmap:		
+	Multithread: 	(explicit/implicit threading)
